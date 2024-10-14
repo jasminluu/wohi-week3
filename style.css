@@ -1,0 +1,44 @@
+/* style.css */
+body {
+    background-color: #eeafe9; 
+    font-family: Arial, sans-serif; 
+    color: #222020; 
+}
+
+h1, h2 {
+    font-weight: bold;
+    color: #242723;
+}
+
+a {
+    color: #350505; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+img {
+    border: 5px solid #222621;
+}
+
+.nav-link:hover {
+    color: #f2b9ee; 
+}
+
+.container {
+    background-color: #f1efef;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+iframe.spotify-embed {
+    border-radius: 12px;
+}
+
